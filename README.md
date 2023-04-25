@@ -17,7 +17,7 @@ yarn start
 This will execute the front-end application in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Projects Structure:
+## Project Structure:
 ```
 .
 ├── package.json

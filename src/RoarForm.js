@@ -88,7 +88,7 @@ function RoarForm() {
             <img className="moken" src="logo_moken.jpg" alt="moken" />
             <form onSubmit={handleSubmit}>
                 <label>
-                    <p>Adicione um Inquilino</p>
+                    <p>Add your wallet</p>
                 </label>
                 <Input
                     type="text"
@@ -98,7 +98,7 @@ function RoarForm() {
                     onChange={handleChange}
                 ></Input>
                 <Button {...buttonProps} className="action" type="submit" colorScheme="green">
-                    Alugar
+                    Rent
                 </Button>
             </form>
         </div>

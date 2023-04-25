@@ -8,7 +8,10 @@ Simply execute the following command from the project's directory:
 
 ```
 yarn
+```
 
+```
+yarn build
 ```
 
 ```

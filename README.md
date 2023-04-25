@@ -16,3 +16,21 @@ yarn start
 
 This will execute the front-end application in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Projects Structure:
+```
+.
+├── package.json
+├── public
+│   ├── index.html
+│   └── logo_moken.jpg
+├── README.md
+├── src
+│   ├── App.css
+│   ├── App.js
+│   ├── index.css
+│   ├── index.js
+│   └── RoarForm.js
+└── yarn.lock
+
+```
